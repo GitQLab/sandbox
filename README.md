@@ -1,1 +1,1 @@
-Sandbox project for [https://gitq.com](GitQ).
+Sandbox project for https://gitq.com
